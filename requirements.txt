@@ -1,6 +1,8 @@
 numpy>=1.16.0
 torch>=1.5
-librosa>=0.5.1
+librosa==0.6.2
+inflect==0.2.5
+gdown
 Unidecode>=0.4.20
 tensorboard
 tensorboardX
@@ -12,3 +14,4 @@ tqdm
 soundfile
 phonemizer
 bokeh==1.4.0
+
