@@ -1,6 +1,6 @@
 numpy>=1.16.0
 torch>=1.5
-librosa==0.6.2
+librosa==0.9.1
 inflect==0.2.5
 gdown
 Unidecode>=0.4.20
